@@ -1,0 +1,54 @@
+* ::not(h2, hr){
+	margin: 0;
+}
+
+body {
+	background-color: #E1DCD9;
+}
+
+#headphoto {
+	width: 30%;
+	height: 30%;
+	margin: auto;
+	text-align: center;
+}
+
+header {
+	margin: auto;
+	background-color: #32435F;
+	color: #E1DCD9;
+	font-size: 49px;
+	text-align: center;
+}
+
+#con0 {
+	margin: auto;
+}
+
+#con1 {
+	max-width: 80%;
+}
+
+main {
+	margin-left: 6%;
+	margin-right: 6%;
+}
+
+#photo {
+	margin: 2%;
+    width: 100px;
+    height: auto;
+}
+
+#maoboli {
+	box-shadow:6px 6px 6px #CBCBCB;
+}
+
+.part {
+	margin: 2px;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	box-shadow:6px 6px 6px #CBCBCB;
+	max-width: 49%;
+}
